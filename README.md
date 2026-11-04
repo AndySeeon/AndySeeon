@@ -23,7 +23,7 @@ Jetzt, im Ruhestand, arbeite ich mich mit Neugier und in meinem eigenen Tempo wi
 
 | Damals (ca. 1985) | Heute |
 | ----------------- | ----- |
-| Borland Pascal unter DOS | Moderne Sprachen und Frameworks |
+| Borland Pascal unter DOS | Moderne Sprachen und Frameworks, primär C# |
 | Handbücher und Fachzeitschriften | Internet, Dokumentation und KI-Unterstützung |
 | Disketten | Git und GitHub |
 
