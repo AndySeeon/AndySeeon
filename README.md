@@ -11,7 +11,7 @@ end.
 
 Vor rund 40 Jahren habe ich intensiv mit **Borland Pascal** programmiert. Danach folgten etwa 30 Jahre Pause und ein ganz anderes Berufsleben.
 
-Jetzt, im Ruhestand, arbeite ich mich mit Neugier und in meinem eigenen Tempo wieder in die Programmierung ein. Dabei unterstützt mich **[Claude Code](https://claude.com/claude-code)** als KI-Programmierpartner.
+Jetzt, im Ruhestand, arbeite ich mich mit Neugier und in meinem eigenen Tempo wieder in die Programmierung ein. Dabei unterstützt mich **Claude Code** als KI-Programmierpartner.
 
 ## Woran ich arbeite
 
